@@ -1,0 +1,45 @@
+{
+  "studentsInfo":[
+      {
+          "id":"1",
+          "name": "Zain",
+          "fatherName": "Raza",
+          "department" : "Physics",
+          "description" : "a quick brown fox jumps over a lazy dog, a quick brown fox jumps over a lazy dog"
+        },
+        {
+          "id":"2",
+          "name": "Salma",
+          "fatherName": "Fazal Manan",
+          "department" : "Computer Science",
+          "description" : "a quick brown fox jumps over a lazy dog, a quick brown fox jumps over a lazy dog"
+    
+        },
+        {
+          "id":"3",
+          "name": "Shazia",
+          "fatherName": "Noor Muhammad",
+          "department" : "Urdu",
+          "description" : "a quick brown fox jumps over a lazy dog, a quick brown fox jumps over a lazy dog"
+    
+        },
+        {
+          "id":"4",
+          "name": "kainat",
+          "fatherName": "Khalik noor",
+          "department" : "Maths",
+          "description" : "a quick brown fox jumps over a lazy dog, a quick brown fox jumps over a lazy dog"
+    
+        },
+        {
+          "id":"5",
+          "name": "Hira",
+          "fatherName": "Muzamil",
+          "department" : "English",
+          "description" : "a quick brown fox jumps over a lazy dog, a quick brown fox jumps over a lazy dog"
+        }
+        
+  ]
+    
+  
+}
